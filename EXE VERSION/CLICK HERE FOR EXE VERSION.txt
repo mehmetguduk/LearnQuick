@@ -1,0 +1,9 @@
+Due to Github file upload limit is 25 MB, you can access LearnQuick.exe from the link below.
+
+https://drive.google.com/file/d/1mmA5MyeyoiJiKTV3pwsAVY5dVDou-Xc3/view?usp=sharing
+
+Application is not registered to antivirus programs so it can be detected as a virus. If you see this as a problem, 
+-You can directly run MAIN.py.
+-You can convert MAIN.py to exe with any converter and run that exe file.
+
+
