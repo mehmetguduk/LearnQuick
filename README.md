@@ -20,17 +20,15 @@ The main function of LearnQuick is to help the user memorize things. User will c
 
 ![LearnQuickFeaturesofApplication](https://user-images.githubusercontent.com/85064536/131647525-4150c61d-7f3b-42c6-9da9-422ebcc3925c.jpg)
 
-###### Home
 
-
-![home](https://user-images.githubusercontent.com/85064536/131648758-414e670b-e53a-4dee-a3bd-72691e97513a.jpg)
+## Home
 
 ● You can reach the GitHub page of the application with the link “Click here for more info about how LearnQuick works”. 
 
 ● You can reach the window where you can send me an email with the link “Click here and send me an email”. These emails are very precious to me for improving the application.
 
 
-![deckandcards](https://user-images.githubusercontent.com/85064536/131648791-f6e54f8b-0715-4bc2-a9e1-8ebe07a11b42.jpg)
+## Deck and Cards
 
 ●	“Create deck”, “Rename deck”, “Delete deck” buttons work by referring to the text in the box that says “Type deck name here” by default. You can change this text by typing or by choosing a deck from the deck list above. 
 
@@ -45,7 +43,7 @@ The main function of LearnQuick is to help the user memorize things. User will c
 ● You can edit the card by double-clicking any card in the card list.
 
 
-![cardcreation](https://user-images.githubusercontent.com/85064536/131648816-6eb31f83-6053-4c7a-b667-9ed697862339.jpg)
+## Card Creation
 
 ●	If you fill two boxes called "Front" and "Back" above and click the 'Add the card below' button, you can send your card to the list below, which will store the cards you have prepared. 
 
@@ -60,7 +58,7 @@ The main function of LearnQuick is to help the user memorize things. User will c
 ●	You can cancel the card adding process by clicking the "Cancel" button.
 
 
-![study](https://user-images.githubusercontent.com/85064536/131648833-3ddd19c1-7c8e-47ff-ae63-d3bb926813c3.jpg)
+## Study
 
 ●	You can start studying by selecting your deck from the drop-down menu and clicking the 'Start' button. During the study, while you are shown the front of the cards, you are expected to guess the back of the card. After making your guess, click the 'Show' button and compare your guess with the answer.
 
@@ -73,7 +71,7 @@ The main function of LearnQuick is to help the user memorize things. User will c
 ●	You can stop your studying by clicking the "Stop" button.
 
 
-![statistics](https://user-images.githubusercontent.com/85064536/131648843-cba33a6a-fee3-4a0f-aff1-4a7be8014874.jpg)
+## Statistics
 
 ●	With the box above where you can select the date, you can see the study you have done on the selected date. 
 
