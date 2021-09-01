@@ -20,7 +20,7 @@ The main function of LearnQuick is to help the user memorize things. User will c
 
 ![LearnQuickFeaturesofApplication](https://user-images.githubusercontent.com/85064536/131647525-4150c61d-7f3b-42c6-9da9-422ebcc3925c.jpg)
 
-
+######Home
 ![home](https://user-images.githubusercontent.com/85064536/131648758-414e670b-e53a-4dee-a3bd-72691e97513a.jpg)
 
 ● You can reach the GitHub page of the application with the link “Click here for more info about how LearnQuick works”. 
