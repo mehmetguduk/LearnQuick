@@ -6,7 +6,7 @@ LearnQuick is a flashcard application that you can create your own deck, add car
 The main function of LearnQuick is to help the user memorize things. User will create the cards with the sides front and back. Front side will be the question, and back side will be the answer. After the desired number of cards, a deck is completed, for example: Physics deck. While studying deck, cards will be shown one by one and user has to guess the back side, the answer, and rate the difficulty of the card. The frequency of how often which cards will be shown to user is determined by the difficulty rating of the cards. More difficult cards will be shown more often and vice versa.
 
 
-![preview](https://user-images.githubusercontent.com/85064536/131654091-a5021e6b-97a8-40c1-bce3-013607aa670b.gif)
+![LQ](https://user-images.githubusercontent.com/85064536/131725543-a89bb873-e2f8-4c0b-a5e7-3928c698ace7.gif)
 
 
 ![LearnQuickBanner4](https://user-images.githubusercontent.com/85064536/131624607-5ef66562-a032-4f09-80f8-62255529e1bd.jpg)
