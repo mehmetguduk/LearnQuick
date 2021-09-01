@@ -1,6 +1,6 @@
-Due to Github file upload limit is 25 MB, you can access LearnQuick.exe from the link below.
+You can access LearnQuick.exe from the link below.
 
-https://drive.google.com/file/d/1mmA5MyeyoiJiKTV3pwsAVY5dVDou-Xc3/view?usp=sharing
+https://github.com/mehmetguduk/LearnQuick/releases/tag/Exe
 
 Application is not registered to antivirus programs so it can be detected as a virus but its not. If you see this as a problem, 
 -You can directly run MAIN.py or
