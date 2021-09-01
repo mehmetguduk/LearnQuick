@@ -1,4 +1,4 @@
-![LearnQuickBanner2](https://user-images.githubusercontent.com/85064536/131550773-0f7e822d-f3f6-4975-ae68-b845a7543290.jpg)
+![LearnQuickBanner3](https://user-images.githubusercontent.com/85064536/131624128-1183481b-0673-47e6-bc25-9303555b2fed.jpg)
 
 LearnQuick is a flashcard application that you can create your own deck, add cards into deck and study.
 
