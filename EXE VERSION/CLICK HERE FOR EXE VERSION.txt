@@ -1,6 +1,8 @@
 You can access LearnQuick.exe from the link below.
 
 https://github.com/mehmetguduk/LearnQuick/releases/tag/Exe
+or
+https://github.com/mehmetguduk/LearnQuick/releases/download/Exe/LearnQuick.exe
 
 Application is not registered to antivirus programs so it can be detected as a virus but its not. If you see this as a problem, 
 -You can directly run MAIN.py or
