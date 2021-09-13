@@ -11,12 +11,11 @@ The main function of LearnQuick is to help the user memorize things. User will c
 
 ![LearnQuickBanner4](https://user-images.githubusercontent.com/85064536/131624607-5ef66562-a032-4f09-80f8-62255529e1bd.jpg)
 
-★ **Method one** : You can download all py files (MAIN.py, database_functions.py, default_deck.py, images.py, interface.py) in same folder and run MAIN.py.
+★ **Method one** : You can [CLICK HERE](https://github.com/mehmetguduk/LearnQuick/releases/tag/Exe) for exe version of application.
 
-★ **Method two** : You can [CLICK HERE](https://github.com/mehmetguduk/LearnQuick/releases/tag/Exe) for exe version of application.
+★ **Method two** : You can download all py files (MAIN.py, database_functions.py, default_deck.py, images.py, interface.py) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access. 
 
-
-★ **Method three** : You can download all py files (MAIN.py, database_functions.py, default_deck.py, images.py, interface.py) in same folder and convert MAIN.py to exe with any py to exe converter. Then you can run that exe to get access.
+★ **Method three** : You can download all py files (MAIN.py, database_functions.py, default_deck.py, images.py, interface.py) in same folder and run MAIN.py. 
 
 
 ![LearnQuickFeaturesofApplication](https://user-images.githubusercontent.com/85064536/131647525-4150c61d-7f3b-42c6-9da9-422ebcc3925c.jpg)
