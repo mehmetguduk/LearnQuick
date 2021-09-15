@@ -18,9 +18,12 @@ The main function of LearnQuick is to help the user memorize things. User will c
 ★ **Method three** : You can download all py files (MAIN.py, database_functions.py, default_deck.py, images.py, interface.py, requirements.txt) in same folder and run MAIN.py. 
 
 In order to choose Method two or Method three you should install required modules that project use.
-```pip install -r requirements.txt```
-● PyQt5==5.15.4
 
+```pip install -r requirements.txt```
+
+Required Modules :
+
+● PyQt5==5.15.4
 
 ![LearnQuickFeaturesofApplication](https://user-images.githubusercontent.com/85064536/131647525-4150c61d-7f3b-42c6-9da9-422ebcc3925c.jpg)
 
