@@ -17,7 +17,7 @@ The main function of LearnQuick is to help the user memorize things. User will c
 
 ★ **Method three** : You can download all py files (MAIN.py, database_functions.py, default_deck.py, images.py, interface.py, requirements.txt) in same folder and run MAIN.py. 
 
-In order to choose Method two or Method three you should install required modules that project use.
+In order to choose Method two or Method three you should install required modules that project use with the command below.
 
 ```pip install -r requirements.txt```
 
