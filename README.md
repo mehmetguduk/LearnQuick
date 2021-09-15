@@ -21,9 +21,16 @@ In order to choose Method two or Method three you should install required module
 
 ```pip install -r requirements.txt```
 
-Required Modules :
+Requirements :
 
-● PyQt5==5.15.4
+● Windows operating system
+
+● Python 3
+
+● Python pip
+
+● Python Module : PyQt5==5.15.4 
+
 
 ![LearnQuickFeaturesofApplication](https://user-images.githubusercontent.com/85064536/131647525-4150c61d-7f3b-42c6-9da9-422ebcc3925c.jpg)
 
