@@ -29,7 +29,7 @@ In order to choose Method two or Method three you should install required module
 
 - Python pip
 
-- Python Module : PyQt5==5.15.4 
+- PyQt5==5.15.4 
 
 
 ![LearnQuickFeaturesofApplication](https://user-images.githubusercontent.com/85064536/131647525-4150c61d-7f3b-42c6-9da9-422ebcc3925c.jpg)
